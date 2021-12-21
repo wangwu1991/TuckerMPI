@@ -1,4 +1,4 @@
-# TuckerMPI_for_seismic_compression
+# TuckerMPI_for_seismic_data
 parallel Tucker tensor decomposition used for seismic data compression
 
 # Attension
